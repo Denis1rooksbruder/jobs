@@ -41,7 +41,7 @@ TEAM_Stone = DarkRP.createJob("ST CPT Stone", {
 
 TEAM_STPVT = DarkRP.createJob("STPVT", {
     color = Color(255, 0, 0, 255),
-    model = {"models/fisher/shock/soldier/soldier.mdl", "models/player/ricky/dg/shock/ricky_shockriot.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
+    model = {"models/fisher/shock/soldier/soldier.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
     description = [[STPVT]],
     weapons = {"rw_sw_shield_cg", "rw_sw_shield_rep", "rw_sw_shield_rep_dc17", "stunstick", "re_hands", "rw_sw_dc15a_o", "weapon_fists", "swep_mexicanshockstaff", "weapon_cuff_elastic", "arrest_stick", "unarrest_stick", "rw_sw_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_stun_dc15s"},
     command = "stpvt",
@@ -61,7 +61,7 @@ TEAM_STPVT = DarkRP.createJob("STPVT", {
 
 TEAM_STPFC = DarkRP.createJob("STPFC", {
     color = Color(255, 0, 0, 255),
-    model = {"models/fisher/shock/soldier/soldier.mdl", "models/player/ricky/dg/shock/ricky_shockriot.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
+    model = {"models/fisher/shock/soldier/soldier.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
     description = [[STPFC]],
     weapons = {"rw_sw_shield_cg", "rw_sw_shield_rep", "rw_sw_shield_rep_dc17", "stunstick", "re_hands", "rw_sw_dc15a_o", "weapon_fists", "weapon_cuff_elastic", "swep_mexicanshockstaff", "arrest_stick", "unarrest_stick", "rw_sw_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_stun_dc15s"},
     command = "stpfc",
@@ -81,7 +81,7 @@ TEAM_STPFC = DarkRP.createJob("STPFC", {
 
 TEAM_STLCL = DarkRP.createJob("STLCL", {
     color = Color(255, 0, 0, 255),
-    model = {"models/fisher/shock/soldier/soldier.mdl", "models/player/ricky/dg/shock/ricky_shockriot.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
+    model = {"models/fisher/shock/soldier/soldier.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
     description = [[STLCL]],
     weapons = {"rw_sw_shield_cg", "rw_sw_shield_rep", "rw_sw_shield_rep_dc17", "re_hands", "rw_sw_dc15a_o", "weapon_fists", "weapon_cuff_elastic", "swep_mexicanshockstaff", "arrest_stick", "unarrest_stick", "rw_sw_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_stun_dc15s"},
     command = "stlcl",
@@ -101,7 +101,7 @@ TEAM_STLCL = DarkRP.createJob("STLCL", {
 
 TEAM_STCPL = DarkRP.createJob("STCPL", {
     color = Color(255, 0, 0, 255),
-    model = {"models/fisher/shock/soldier/soldier.mdl", "models/player/ricky/dg/shock/ricky_shockriot.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
+    model = {"models/fisher/shock/soldier/soldier.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
     description = [[STCPL]],
     weapons = {"rw_sw_shield_cg", "rw_sw_shield_rep", "rw_sw_shield_rep_dc17", "stunstick", "re_hands", "rw_sw_dc15a_o", "weapon_fists", "weapon_cuff_elastic", "swep_mexicanshockstaff", "arrest_stick", "unarrest_stick", "rw_sw_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_stun_dc15s"},
     command = "stcpl",
@@ -121,7 +121,7 @@ TEAM_STCPL = DarkRP.createJob("STCPL", {
 
 TEAM_STSGT = DarkRP.createJob("STSGT", {
     color = Color(255, 0, 0, 255),
-    model = {"models/fisher/shock/soldier/soldier.mdl", "models/player/ricky/dg/shock/ricky_shockriot.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
+    model = {"models/fisher/shock/soldier/soldier.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
     description = [[STSGT]],
     weapons = {"rw_sw_shield_cg", "rw_sw_shield_rep", "rw_sw_shield_rep_dc17", "stunstick", "re_hands", "rw_sw_dc15a_o", "weapon_fists", "weapon_cuff_elastic", "swep_mexicanshockstaff", "arrest_stick", "unarrest_stick", "rw_sw_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_stun_dc15s"},
     command = "stsgt",
@@ -161,7 +161,7 @@ TEAM_STHOUND = DarkRP.createJob("ST SGT HOUND", {
 
 TEAM_STSGTMJ = DarkRP.createJob("STSGTMJ", {
     color = Color(255, 0, 0, 255),
-    model = {"models/fisher/shock/soldier/soldier.mdl", "models/player/ricky/dg/shock/ricky_shockriot.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
+    model = {"models/fisher/shock/soldier/soldier.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
     description = [[STSGTMJ]],
     weapons = {"rw_sw_shield_cg", "rw_sw_shield_rep", "rw_sw_shield_rep_dc17", "stunstick", "re_hands", "rw_sw_dc15a_o", "weapon_fists", "weapon_cuff_elastic", "swep_mexicanshockstaff", "arrest_stick", "unarrest_stick", "rw_sw_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_stun_dc15s"},
     command = "stsgtmj",
@@ -181,7 +181,7 @@ TEAM_STSGTMJ = DarkRP.createJob("STSGTMJ", {
 
 TEAM_ST2ndLT = DarkRP.createJob("ST2ndLT", {
     color = Color(255, 0, 0, 255),
-    model = {"models/fisher/shock/soldier/soldier.mdl", "models/player/ricky/dg/shock/ricky_shockriot.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
+    model = {"models/fisher/shock/soldier/soldier.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
     description = [[ST2ndLT]],
     weapons = {"rw_sw_shield_cg", "rw_sw_shield_rep", "rw_sw_shield_rep_dc17", "stunstick", "re_hands", "rw_sw_dc15a_o", "weapon_fists", "weapon_cuff_elastic", "swep_mexicanshockstaff", "arrest_stick", "unarrest_stick", "rw_sw_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_stun_dc15s"},
     command = "st2ndlt",
@@ -201,7 +201,7 @@ TEAM_ST2ndLT = DarkRP.createJob("ST2ndLT", {
 
 TEAM_ST1stLT = DarkRP.createJob("ST1stLT", {
     color = Color(255, 0, 0, 255),
-    model = {"models/fisher/shock/soldier/soldier.mdl", "models/player/ricky/dg/shock/ricky_shockriot.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
+    model = {"models/fisher/shock/soldier/soldier.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
     description = [[ST1stLT]],
     weapons = {"rw_sw_shield_cg", "rw_sw_shield_rep", "rw_sw_shield_rep_dc17", "stunstick", "re_hands", "rw_sw_dc15a_o", "weapon_fists", "weapon_cuff_elastic", "swep_mexicanshockstaff", "arrest_stick", "unarrest_stick", "rw_sw_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_stun_dc15s"},
     command = "st1stlt",
@@ -221,7 +221,7 @@ TEAM_ST1stLT = DarkRP.createJob("ST1stLT", {
 
 TEAM_STCPT = DarkRP.createJob("STCPT", {
     color = Color(255, 0, 0, 255),
-    model = {"models/fisher/shock/soldier/soldier.mdl", "models/player/ricky/dg/shock/ricky_shockriot.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
+    model = {"models/fisher/shock/soldier/soldier.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
     description = [[STCPT]],
     weapons = {"rw_sw_shield_cg", "rw_sw_shield_rep", "rw_sw_shield_rep_dc17", "stunstick", "re_hands", "rw_sw_dc15a_o", "weapon_fists", "weapon_cuff_elastic", "swep_mexicanshockstaff", "arrest_stick", "unarrest_stick", "rw_sw_dual_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_stun_dc15s"},
     command = "stcpt",
@@ -241,7 +241,7 @@ TEAM_STCPT = DarkRP.createJob("STCPT", {
 
 TEAM_STMJR = DarkRP.createJob("STMJR", {
     color = Color(255, 0, 0, 255),
-    model = {"models/fisher/shock/soldier/soldier.mdl", "models/player/ricky/dg/shock/ricky_shockriot.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
+    model = {"models/fisher/shock/soldier/soldier.mdl", "models/defcon/banks/coldwweather/cg_cold/cg_trooper/cg_trooper.mdl"},
     description = [[STMJR]],
     weapons = {"rw_sw_shield_cg", "rw_sw_shield_rep", "rw_sw_shield_rep_dc17", "stunstick", "re_hands", "rw_sw_dc15a_o", "weapon_fists", "weapon_cuff_elastic", "swep_mexicanshockstaff", "arrest_stick", "unarrest_stick", "rw_sw_dual_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_stun_dc15s"},
     command = "stmjr",
