@@ -21,7 +21,7 @@ TEAM_JESSE = DarkRP.createJob("ARC 2ndLT Jesse", {
     end
 })
 
-TEAM_FIVES = DarkRP.createJob("ARC 2ndLT Fives", {
+TEAM_FIVES = DarkRP.createJob("ARC 1stLT Fives", {
     color = Color(0, 0, 255, 255),
     model = {
 		"models/fisher/rogue/501st/fives.mdl",
