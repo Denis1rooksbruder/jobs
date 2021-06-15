@@ -28,7 +28,7 @@ TEAM_FIVES = DarkRP.createJob("ARC 1stLT Fives", {
 		"models/defcon/stan/arcevo/regimentals/evo501starc.mdl"
 	},
     description = [[ARC SGT Fives]],
-    weapons = {"weapon_fists", "re_hands", "jet_mk1", "rw_sw_dc15s", "rw_sw_dc15a_o", "rw_sw_dual_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_nade_thermal", "weapon_cuff_elastic", "rw_sw_dual_dc17ext"},
+    weapons = {"weapon_fists", "re_hands", "jet_mk1", "rw_sw_westarm5", "rw_sw_dc15s", "rw_sw_dc15a_o", "rw_sw_dual_dc17", "cross_arms_infront_swep", "cross_arms_swep", "salute_swep", "rw_sw_nade_thermal", "weapon_cuff_elastic", "rw_sw_dual_dc17ext"},
     command = "fives",
     max = 1,
     salary = 100,
